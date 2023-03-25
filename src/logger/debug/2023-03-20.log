@@ -1,0 +1,375 @@
+{
+  message: '{"route":"/chat","message":"asdasdasd","username":"Aidan"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","message":"Test thooi maf","username":"Aidan"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","message":"123123123","username":"Aidan"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"asdasd","message":"asdasd"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ádasd","message":"ádasdasd"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ádasd","message":"ádasd"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"từ A đến Á"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"Thím nào dấy"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hổng nói","message":"ú òa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"còn lâu mới nói"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"làm cái qq này phục vụ cho việc gì vậy Na đi a"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":":)) moá chat trên kia sợ bị soi quá"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hổng nói","message":"=)))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"e tạo hẳn cái chat"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"à "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"giỏi quá "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hổng nói","message":"rồi load lại là clear hết hả"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"mất hết anh :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"a ko có store data"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"ok vậy cũng ko sao "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":":))) "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"mất càng tốt"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"khỏi set ngày "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"để mốt update chanel nói xấu Bê ô"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"tính năng reload mất hết hay đó "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"ủa mà "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hổng nói","message":"mà cái này chỉ nhắn tin đc thoai chớ đâu có share hình gì đc pk"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"ko anh"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"muốn share thì e update. thôi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"nhanh mà"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"mới cơ bản thôi :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"ủa "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"rồi nếu anh reload "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"thì nguyên đoạn conversation mất à"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hỏi làm gì","message":"sáng DT hỏi đánh đố , bị anh 2 làm cho 1 tăng "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":":))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"reset là ko thấy gì luôn nha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"người còn ở mới thấy thôi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Hổng nói","message":"đúng hỏi đánh đố thiệt"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hihi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"alo "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"Haha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"cần bắt bug"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"giao diện cần update lại"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Tina","message":"ú òa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"refresh cái anh Lita"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"update"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":"Ngon ngon"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hội bàn đào có đào ko"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"cho hình đào"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"Aidan","message":":))) chưa update nha anh"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hình mấy em xinh xinh làm avata"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"ai nói gì thế?"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"Chat này phải nhắn e cấp IP nha chứ ko có online đâu :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hahha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"vậy ta dùng app chat khác cho nhanh"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hahah"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"app chat nó log data lại nha :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"e thì ko log :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"f5 cái mất luôn"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":":))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"haha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"chat này po qua thấy liền nha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"thì a tắt đi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"để e update enscript"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"enscrypt"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"encrypt"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"haha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"moá ko sửa đc cũng khó chịu ghê ta :))))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"ancryot nữa hả"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":"Although Socket.IO indeed uses WebSocket for transport when possible, it adds additional metadata to each packet. That is why a WebSocket client will not be able to successfully connect to a Socket.IO server, and a Socket.IO client will not be able to connect to a plain WebSocket server either."}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"haha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN","message":":)) chat chơi thôi đợi e update"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDNA","message":"ádasdasdasda"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"lita","message":"hay mình tạo ra app chat cạnh tranh với zalo đi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}

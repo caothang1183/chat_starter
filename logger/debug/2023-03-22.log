@@ -1,0 +1,615 @@
+{
+  message: '{"route":"/chat","username":"NẢN","message":"Alo"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"hi all"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"aloalioa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"chào Nadia "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"em đổi link đc ko "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"link giè"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"ko lẽ tối vể nghiên cứu viết app chat"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"chứ app này nhìn xấu quá"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"<3"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":":)))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"LITA","message":"ko có icon thả tym"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"/slack cái đi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"http://192.168.1.182:8080/slack.html"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"thử đi mấy thím"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"e đang từ từ update "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"chat ko đc "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"thì template thôi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"chưa lên mà kaka"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"mới bản demo hả "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"ủa Fây đâu rồi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NẢN","message":"demo template à"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"alo"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"nhắn tới đâu r mn"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"nhắn gì ai biết"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"từ A đến Á"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"Fây có trong này ko em "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"ba sắc là bá hả a"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"phải là bờ at bat sắc chứ"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"nhạc loz"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"má"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"anh then"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"sáng chọc ghẹo hơi bực"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"tí qua đập lun"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"lấy vật gì nhọn nhọn "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NÁ","message":"Test"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"BỜ A BA SẮC ","message":"đập sao ngoẻo luôn"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"mẹ cứ hỏi gài gài"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"lyp cũng phải test nạp tiền thôi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ÁDASD","message":"aa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"mé"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"giờ test daily cũng bỏ vô làm chó gì ta"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"MỸ HẦU VƯƠNG","message":"mấy cái acc đó có ý nghĩa gì đâu"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NÁ","message":"ádasd"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ẤDASD","message":"qưeqweqwe"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"ÁD","message":"ádasd"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ÁDADS","message":"aqweqwe"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"alo anh em "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"LITA","message":"111"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"thèn Kev zô chưa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"Na thấy ko em "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"wukong vô r nha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"group này chỉ chat được khi Na ngồi ở đây "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"na về nhà là ko chat đc =))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"ủa vậy luôn hả"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"sao v a bát giới"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"bát nha "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"bát giới là thằng nào á "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"gì thế?"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Nghe đây cá thím"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"*các"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Moá bữa bắt làm file domain xong h đi hỏi lại"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Bê Ô vãi lờ"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"bê ô mà "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"hành anh em thôi "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"chứ có nhớ mẹ gì đâu "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"nghỉ tay qua đây chat đi anh em "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"ng ta vô vệ sinh "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":":)))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"Nếu thích Thái "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"thì S3 thôi Na"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Đờ mờ mốt e phắn xem ông Thiên quản lý app sao"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"thôi ko S3 đâu "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"nó quản lý méo nổi đâu "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"khỏi trông chờ "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"múa quá múa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"sắp sửa bung nóc r"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"sáng mứa QC h múa tới e"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"e kêu để anh Will vô nghe"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"chứ nghe mình mệt đít"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"kêu 2 ae dev vô họp hay gì ?"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"kêu bàn về việc chống DDOS"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"nói hay vl"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"=))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"sao lúc nắm SIN méo làm"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"chống DDOS sao mà con SIn nó rớt "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"Sin có chống đó em "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"chống qq gì mà SIn nó rớt liên tục "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Bữa h e kêu bật rồi"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"từ t7 tới h có bị nữa đâu"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"hôm qua hình như con P chết 1 laafnn "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"từ khi thím thờ en qua DB bớt yên ổn hẳn"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":":)))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"thấy DUbai chết tháy lạ lạ nha"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"má thề"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"lâu lắm rồi mới thấy DB bị dính keo 502"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"lúc trước anh Will làm, lâu lắm mới thấy chết 1 lần "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"giờ là tuần chết 2-3 lần "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":":)))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NADIA","message":"Hello"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"hello"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"bao lâu nó xóa em ?"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NADIA","message":"a tắt nó xoá luôn :))"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NADIA","message":"e đâu lưu data đâu a"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"à, anh tưởng sau khoảng thời gian nó tự xóa"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"vậy là in memory"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NADIA","message":"Dạ anh :)) mà lưu chi anh chat chơi thôi mà"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":"Alo"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"cái này có chat group không hay 1-1 hả em"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"thím nào mới vào v"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"alo "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"chat đi ae "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"sôi động lên "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"gì mà lèo tèo "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"ủng hộ chủ shop nào "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"chủ shop update tình hình đi chủ shop "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"khi nào bên kia trả lời cho chủ shop"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"WUKONG","message":"bên kia là bên nào vậy ad bát zới"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"bên thế giới bên kia đó Tề Công Công"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"NADIA","message":"Dạ ai vô link là chat luôn anh"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"NÁ","message":":)) OK nha thím"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"kêu chat nãy h"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat_rieng","username":"BỜ ÁT","message":"ko ai chat "}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"ABC","message":"HI"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}

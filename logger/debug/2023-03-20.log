@@ -1,0 +1,10 @@
+{
+  message: '{"route":"/chat","username":"AIDAN2","message":"Alo"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"route":"/chat","username":"AIDAN1","message":"Hello"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}

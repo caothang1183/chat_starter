@@ -1,0 +1,33 @@
+{
+  message: 'Test nha',
+  username: 'Aidan111',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  service: undefined,
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'message'
+}
+{
+  service: undefined,
+  message: 'message asdas',
+  username: 'asdasdasd',
+  level: '\x1B[32minfo\x1B[39m'
+}
+{
+  message: 'asdasdasd',
+  username: 'asdasda',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"message":"123123123","username":"Aidan"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
+{
+  message: '{"message":"23234","username":"Adu"}',
+  level: '\x1B[32minfo\x1B[39m',
+  service: undefined
+}
